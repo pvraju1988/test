@@ -1,0 +1,21 @@
+package com.venkat;
+
+public class GitCommands {
+	
+	static int i=0;
+	public static void main(String[] args) {
+		System.out.println("Hello Git");
+		System.out.println("Hello2");
+		//System.out.println("Hello3");
+<<<<<<< HEAD
+		System.out.println("HelloJava");
+=======
+>>>>>>> d754211f47de2a1ea6d81650de72c10b7ef6d5f4
+		
+		 if(i==0)
+		 {
+			 System.out.println("print 0");
+		 }
+	}
+
+}
